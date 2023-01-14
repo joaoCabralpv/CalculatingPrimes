@@ -1,0 +1,2 @@
+# CalculatingPrimes
+Calculates prime numbers
